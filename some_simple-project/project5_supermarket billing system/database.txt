@@ -1,0 +1,3 @@
+ 3453 mangoes 50 10
+ 3453 mangoes 50 10
+ 345343 study 0 10

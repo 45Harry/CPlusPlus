@@ -1,0 +1,42 @@
+
+Customer ID: 23324
+Name: Harry
+Address: Sah
+Age: 56
+MobileNumber: 2147483647
+Gender: 
+
+Customer ID: 23
+Name: harry
+Address: kalyanpur
+Age: 20
+MobileNumber: 4294967295
+Gender: 
+
+Customer ID: 2323
+Name: hhhh
+Address: sdds
+Age: 23
+MobileNumber: 233345
+Gender: male
+
+Customer ID: 23423
+Name: Harry
+Address: kalyanpur
+Age: 20
+MobileNumber: 4294967295
+Gender: 
+
+Customer ID: 0
+Name: 
+Address: 
+Age: 2000457808
+MobileNumber: 3471197416
+Gender: 
+
+Customer ID: 23
+Name: hary
+Address: kalyanpur
+Age: 20
+MobileNumber: 981474351
+Gender: male
