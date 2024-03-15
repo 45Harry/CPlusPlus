@@ -12,7 +12,8 @@ private:
 public:
     void get()
     {
-        cout << "Enter the name of goods :";
+
+            cout << "Enter the name of goods :";
         cin >> name;
         cout << "Enter the quantity :";
         cin >> quantity;

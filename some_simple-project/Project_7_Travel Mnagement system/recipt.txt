@@ -5,9 +5,9 @@ Customer ID: 0
 
 Description		 Total
 Hotel Cost:		 0.00
-Travel Cost:		 510.00
+Travel Cost:		 625.00
 ________________________________________
-Total Charge:		 510.00
+Total Charge:		 625.00
 ________________________________________
 ----------------THANK YOU---------------
 --------------COME AGAIN :)-------------

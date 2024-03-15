@@ -1,0 +1,10 @@
+______________Xyz airlines_____________
+______________Ticket____________
+_______________________________________
+Customer ID: 465
+Customer Name: DipakMehta
+Customer Gender: male
+	Description
+
+Destination		Dubai
+Flight cost : 		14000

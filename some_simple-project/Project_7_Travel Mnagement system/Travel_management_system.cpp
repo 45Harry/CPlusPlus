@@ -462,8 +462,10 @@ void menu()
         a5.printBill();
         cout << "Your recipt is already printed you can get it from file path\n"
              << endl;
-        cout << "To display the your reciept in the screen, Enter 1: or Enter another key to go back to Main Menu: ";
-        cin >> gotoChoice;
+        cout << "To display the your reciept in the screen, Enter 1:" << endl
+             << " or Enter another key to go back to Main Menu : ";
+        cin >>
+            gotoChoice;
         if (gotoChoice == 1)
         {
             system("CLS");
